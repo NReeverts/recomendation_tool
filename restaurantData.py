@@ -41,3 +41,4 @@ restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic A
                    ['pizza', 'When in Rome', '3', '2', '234 Valencia St.'],
                    ['pizza', 'Pizza 76', '4', '3', '76 Market St.'],
                    ['italian', 'Party Pasta', '5', '2', '70 E Main St']]
+

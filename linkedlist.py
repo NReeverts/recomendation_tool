@@ -3,7 +3,7 @@ class Node:
         self.value = value
         self.next_node = next_node
         
-    def get_vaue(self):
+    def get_value(self):
         return self.value
        
     def get_next_node(self):
@@ -45,11 +45,3 @@ class LinkedList:
           current_node = None
         else:
           current_node = next_node
-    def __init__(self, value=None):
-        self.head_node = Node(value)
-        
-    def get_head_node(self):
-        return self.head_node
-    
-    def set_head_node(self, value):
-        self.head_node = Node(value)
